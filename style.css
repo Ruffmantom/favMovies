@@ -1,0 +1,12 @@
+
+.movie {
+  display: flex;
+}
+.movie .img {
+  /* width: auto; */
+  background-position: center;
+  background-size: cover;
+  flex: 1;
+  min-height: 160px;
+}
+.movie h1 { flex: 3 }

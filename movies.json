@@ -1,0 +1,223 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/qFYwztFX1gx9PZLnTEokQw5q04G.jpg",
+        "belongs_to_collection": {
+            "id": 3167,
+            "name": "Ace Ventura Collection",
+            "poster_path": "/qCxH543pScFed1CycwJ1nVgrkOc.jpg",
+            "backdrop_path": "/aPoX8RAxA9J2XW44Ud0AozTUFop.jpg"
+        },
+        "budget": 30000000,
+        "genres": [
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": null,
+        "id": 9273,
+        "imdb_id": "tt0112281",
+        "original_language": "en",
+        "original_title": "Ace Ventura: When Nature Calls",
+        "overview": "Summoned from an ashram in Tibet, Ace finds himself on a perilous journey into the jungles of Africa to find Shikaka, the missing sacred animal of the friendly Wachati tribe. He must accomplish this before the wedding of the Wachati's Princess to the prince of the warrior Wachootoos. If Ace fails, the result will be a vicious tribal war.",
+        "popularity": 11.007,
+        "poster_path": "/wRlGnJhEzcxBjvWtvbjhDSU1cIY.jpg",
+        "production_companies": [
+            {
+                "id": 5682,
+                "logo_path": null,
+                "name": "O Entertainment",
+                "origin_country": ""
+            },
+            {
+                "id": 10210,
+                "logo_path": null,
+                "name": "Morgan Creek Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 174,
+                "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                "name": "Warner Bros. Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1995-11-10",
+        "revenue": 212385533,
+        "runtime": 90,
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "New animals. New adventures. Same hair.",
+        "title": "Ace Ventura: When Nature Calls",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 1964
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8GgXo5TQO3ccARNLn7rcWdbTTsx.jpg",
+        "belongs_to_collection": {
+            "id": 90863,
+            "name": "Rush Hour Collection",
+            "poster_path": "/uweT7ODRz1XyvZ3dMjoEDIPBJcO.jpg",
+            "backdrop_path": "/uoDt3eCCKpcxSQVWjPTgN8T0gjm.jpg"
+        },
+        "budget": 33000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": null,
+        "id": 2109,
+        "imdb_id": "tt0120812",
+        "original_language": "en",
+        "original_title": "Rush Hour",
+        "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
+        "popularity": 10.688,
+        "poster_path": "/jdfxpW5LF36sHsHjyH8CMBEG4TF.jpg",
+        "production_companies": [
+            {
+                "id": 961,
+                "logo_path": null,
+                "name": "Roger Birnbaum Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 12,
+                "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                "name": "New Line Cinema",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1998-09-18",
+        "revenue": 244386864,
+        "runtime": 98,
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The Fastest Hands in the East Meet the Biggest Mouth in the West.",
+        "title": "Rush Hour",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 2039
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yAH2318Mx6WGLZveKes8aj2Yrcl.jpg",
+        "belongs_to_collection": null,
+        "budget": 60000,
+        "genres": [
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "http://www.pithemovie.com/",
+        "id": 473,
+        "imdb_id": "tt0138704",
+        "original_language": "en",
+        "original_title": "Pi",
+        "overview": "The debut film from Darren Aronofsky in which a mathematical genius Maximilian Cohen discovers a link in the connection between numbers and reality and thus believes he can predict the future.",
+        "popularity": 6.616,
+        "poster_path": "/d4pDorUHjIVFiVGiJar6sF2r8TQ.jpg",
+        "production_companies": [
+            {
+                "id": 22566,
+                "logo_path": null,
+                "name": "Harvest Filmworks",
+                "origin_country": ""
+            },
+            {
+                "id": 379,
+                "logo_path": null,
+                "name": "Truth and Soul Pictures Inc",
+                "origin_country": ""
+            },
+            {
+                "id": 22567,
+                "logo_path": null,
+                "name": "Plantain Films",
+                "origin_country": ""
+            },
+            {
+                "id": 7503,
+                "logo_path": "/3K8wbNkTn7O4wX89ucnp1ZYR1XF.png",
+                "name": "Protozoa Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1998-07-10",
+        "revenue": 3221152,
+        "runtime": 84,
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "There will be no order, only chaos",
+        "title": "Pi",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 1012
+    }
+]
