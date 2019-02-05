@@ -1,12 +1,33 @@
-
+html {
+  background-color: rgb(0, 0, 0);
+  
+}
 .movie {
   display: flex;
+  border: 1px solid rgba(8, 34, 34, 0.555);
+  align-items: center;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(119, 125, 128, 0.548);
 }
-.movie .img {
+.movie:hover{
+  background-color: white;
+  cursor: pointer; 
+  transition: ease-in;
+
+}
+.movie, .img {
   /* width: auto; */
   background-position: center;
   background-size: cover;
   flex: 1;
   min-height: 160px;
+  margin-right: 15px;
 }
-.movie h1 { flex: 3 }
+.movie, h1 { 
+  flex: 3;
+  font-family:'Ubuntu', sans-serif; 
+  
+
+}
