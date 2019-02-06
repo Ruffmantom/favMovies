@@ -1,10 +1,17 @@
 html {
   background-color: rgb(0, 0, 0);
-  
+  font-family:'Ubuntu', sans-serif;
+}
+.title, .phrase {
+  color: white;
+}
+.title{
+  font-size: 38px;
 }
 .movie {
   display: flex;
   border: 1px solid rgba(8, 34, 34, 0.555);
+  border-radius: 3px;
   align-items: center;
   margin-top: 10px;
   margin-left: auto;
@@ -12,7 +19,7 @@ html {
   background-color: rgba(119, 125, 128, 0.548);
 }
 .movie:hover{
-  background-color: white;
+  background-color: rgb(156, 156, 156);
   cursor: pointer; 
   transition: ease-in;
 
@@ -27,7 +34,6 @@ html {
 }
 .movie, h1 { 
   flex: 3;
-  font-family:'Ubuntu', sans-serif; 
-  
+  font-size: 22px;
 
 }

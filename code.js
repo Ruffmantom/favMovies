@@ -20,6 +20,9 @@ request.onload = () => {
       title.innerText = movie.title +' ('+ movie.year +')'
       div.appendChild(title)
 
+      //const button = document.createElement('button')
+      // THinking of how i can add buttons in the divs for like "Click here for run times" "click here for more info" 
+
       document.body.appendChild(div)
     })
   }
